@@ -1,0 +1,11 @@
+.ta-form-control:focus{
+  box-shadow:none !important;
+}
+
+.btn-delete{
+  width:10%;
+}
+
+.ta-form-control{
+  border-radius:20px;
+}
